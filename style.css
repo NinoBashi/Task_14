@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.card {
+    margin:auto;
+    width: 366px;
+    height: 420px;
+    background-color:#FAF4EF;
+    border-bottom-left-radius: 25px;
+    margin-top:150px; 
+    padding-top: 50px;
+    padding-left: 50px;
+    }
+
+   
+    
+.h3{
+    color:#737373;
+    }
+
+.img {
+    
+    }
